@@ -1,4 +1,5 @@
 #include <stdio.h>
+# define NDEBUG
 #include <assert.h>
 
 struct CountsByUsage {
